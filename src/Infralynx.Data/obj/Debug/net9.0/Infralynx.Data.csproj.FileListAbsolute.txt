@@ -1,0 +1,17 @@
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Data\bin\Debug\net9.0\Infralynx.Data.deps.json
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Data\bin\Debug\net9.0\Infralynx.Data.runtimeconfig.json
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Data\bin\Debug\net9.0\Infralynx.Data.dll
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Data\bin\Debug\net9.0\Infralynx.Data.pdb
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Data\bin\Debug\net9.0\Infralynx.Core.dll
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Data\bin\Debug\net9.0\Infralynx.Core.pdb
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Data\obj\Debug\net9.0\Infralynx.Data.csproj.AssemblyReference.cache
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Data\obj\Debug\net9.0\Infralynx.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Data\obj\Debug\net9.0\Infralynx.Data.AssemblyInfoInputs.cache
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Data\obj\Debug\net9.0\Infralynx.Data.AssemblyInfo.cs
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Data\obj\Debug\net9.0\Infralynx.Data.csproj.CoreCompileInputs.cache
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Data\obj\Debug\net9.0\Infralyn.DAB78068.Up2Date
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Data\obj\Debug\net9.0\Infralynx.Data.dll
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Data\obj\Debug\net9.0\refint\Infralynx.Data.dll
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Data\obj\Debug\net9.0\Infralynx.Data.pdb
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Data\obj\Debug\net9.0\Infralynx.Data.genruntimeconfig.cache
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Data\obj\Debug\net9.0\ref\Infralynx.Data.dll

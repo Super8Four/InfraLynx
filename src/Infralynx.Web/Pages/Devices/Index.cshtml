@@ -1,0 +1,76 @@
+@page
+@model Infralynx.Web.Pages.Devices.IndexModel
+@{
+    ViewData["Title"] = "Devices";
+}
+
+<div class="container">
+    <h1>Devices</h1>
+
+    <p>
+        <a asp-page="Create" class="btn btn-primary">Create New</a>
+    </p>
+
+    <div class="row mb-3">
+        <div class="col-md-4">
+            <form method="get">
+                <div class="input-group">
+                    <input type="text" name="searchString" class="form-control" placeholder="Search devices..." value="@Model.CurrentFilter" />
+                    <button type="submit" class="btn btn-outline-secondary">Search</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>
+                    <a asp-page="./Index" asp-route-sortOrder="@Model.NameSort">
+                        @Html.DisplayNameFor(model => model.Devices[0].Name)
+                    </a>
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Devices[0].DeviceType)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Devices[0].Status)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Devices[0].Site)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Devices[0].Role)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Devices)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DeviceType)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Status)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Site.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Role)
+                    </td>
+                    <td>
+                        <a asp-page="./Edit" asp-route-id="@item.Id" class="btn btn-sm btn-outline-primary">Edit</a>
+                        <a asp-page="./Details" asp-route-id="@item.Id" class="btn btn-sm btn-outline-info">Details</a>
+                        <a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-sm btn-outline-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div> 

@@ -1,0 +1,12 @@
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Core\bin\Debug\net9.0\Infralynx.Core.deps.json
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Core\bin\Debug\net9.0\Infralynx.Core.dll
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Core\bin\Debug\net9.0\Infralynx.Core.pdb
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Core\obj\Debug\net9.0\Infralynx.Core.csproj.AssemblyReference.cache
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Core\obj\Debug\net9.0\Infralynx.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Core\obj\Debug\net9.0\Infralynx.Core.AssemblyInfoInputs.cache
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Core\obj\Debug\net9.0\Infralynx.Core.AssemblyInfo.cs
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Core\obj\Debug\net9.0\Infralynx.Core.csproj.CoreCompileInputs.cache
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Core\obj\Debug\net9.0\Infralynx.Core.dll
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Core\obj\Debug\net9.0\refint\Infralynx.Core.dll
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Core\obj\Debug\net9.0\Infralynx.Core.pdb
+C:\Users\gjensen\OneDrive\Projects\Active\Infralynx\src\Infralynx.Core\obj\Debug\net9.0\ref\Infralynx.Core.dll
